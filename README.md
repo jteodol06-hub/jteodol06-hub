@@ -65,35 +65,6 @@ A scalable backend-driven media and SaaS platform built from scratch with Python
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- GitHub Stats & Top Languages (Adaptive for Light and Dark mode) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jteodol06-hub&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=jteodol06-hub&show_icons=true&theme=buefy&hide_border=false&border_color=f472b6&title_color=d946ef&icon_color=ec4899&text_color=27272a&bg_color=fdf4ff">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jteodol06-hub&show_icons=true&theme=radical&hide_border=true" alt="Josephine's GitHub Stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jteodol06-hub&layout=compact&theme=radical&hide_border=true&bg_color=0d1117">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jteodol06-hub&layout=compact&theme=buefy&hide_border=false&border_color=f472b6&title_color=d946ef&icon_color=ec4899&text_color=27272a&bg_color=fdf4ff">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jteodol06-hub&layout=compact&theme=radical&hide_border=true" alt="Josephine's Top Languages" />
-</picture>
-
-<br/><br/>
-
-<!-- GitHub Streak Stats -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=jteodol06-hub&theme=radical&hide_border=true&background=0d1117">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=jteodol06-hub&theme=buefy&hide_border=false&border=f472b6&background=fdf4ff&ring=d946ef&fire=ec4899&currStreakLabel=a855f7">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jteodol06-hub&theme=radical&hide_border=true" alt="Josephine's Streak Stats" />
-</picture>
-
-</div>
-
----
-
 ## 🌷 Currently
 
 - 🛡️ Developing **Integrity & Chain-of-Custody (ICCF)** — an evidence integrity and cryptographic audit platform.
