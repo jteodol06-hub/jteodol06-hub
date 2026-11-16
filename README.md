@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=D946EF&center=true&vCenter=true&width=620&lines=CS+%26+Cybersecurity+%40+NUST+%F0%9F%87%B3%F0%9F%87%A6;Building+secure+%26+practical+digital+products+%F0%9F%94%90;Python+%C2%B7+FastAPI+%C2%B7+JavaScript+%E2%9C%A8;Open+to+software+%26+tech+internships+%F0%9F%8C%B7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=D946EF&center=true&vCenter=true&width=620&lines=CS+%26+Cybersecurity+%40+NUST+%F0%9F%87%B3%F0%9F%87%A6;Building+secure+%26+practical+digital+products+%F0%9F%94%90;TypeScript+%C2%B7+Python+%C2%B7+FastAPI+%E2%9C%A8;Open+to+software+%26+tech+internships+%F0%9F%8C%B7" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -22,9 +22,9 @@
 ## 🌸 About Me
 
 - 🎓 **Computer Science** student specializing in **Cybersecurity** at the **Namibian University of Science and Technology (NUST)** in Windhoek, Namibia.
-- 💻 Passionate about **full-stack web development** backed by solid cybersecurity fundamentals.
-- 🔐 Dedicated to building digital products that are **secure by design**, practical, and thoughtfully crafted.
-- 🚀 Actively looking for **software engineering and tech internships** to learn, build, and contribute.
+- 💻 Passionate about **full-stack web development** backed by defensive cybersecurity principles.
+- 🔐 Dedicated to building digital products that are **secure by design**, practical, and thoughtfully engineered.
+- 🚀 Actively seeking **software engineering and tech internships** to learn, build, and contribute.
 
 ---
 
@@ -32,46 +32,36 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,js,html,css,java,c,git,github,linux&perline=10" alt="Tech Stack Icons" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,fastapi,html,css,java,c,git,github,linux&perline=11" alt="Tech Stack Icons" />
 
 </div>
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Backend** | Python, FastAPI |
-| **Frontend** | JavaScript, HTML, CSS |
-| **Systems & Algorithms** | Java, C |
-| **Security** | Cybersecurity fundamentals & secure development |
-| **Tools & Platforms** | Git, GitHub, Linux |
+| **Languages** | TypeScript, JavaScript, Python, Java, C |
+| **Backend & APIs** | FastAPI, Node.js, Express, REST APIs |
+| **Frontend & Web** | HTML5, CSS3, JavaScript, TypeScript |
+| **Security & Systems** | Cryptographic verification (SHA-256), defensive coding, Linux |
+| **Database & Tools** | PostgreSQL, Prisma, Git, GitHub |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧩 Teodol Platform
-A backend-driven SaaS side project designed and developed with FastAPI.
-- **Technologies:** Python, FastAPI
-- 🔗 [View repo](#)
+### 🛡️ [Integrity & Chain-of-Custody (ICCF)](https://github.com/jteodol06-hub/integrity-chain-of-custody)
+An enterprise-grade digital evidence management platform engineered around defensive cybersecurity. Features bit-level streaming cryptographic SHA-256 verification, an append-only hash-linked chain of custody ledger, and automated tamper detection.
+- **Tech:** `TypeScript` `Node.js` `Express` `Prisma` `PostgreSQL`
+- 🔗 [View Repository →](https://github.com/jteodol06-hub/integrity-chain-of-custody)
 
-### 🍽️ Isabel's Table
-A responsive marketing website built for an outdoor dining restaurant based in Windhoek.
-- **Technologies:** HTML, CSS, JavaScript
-- 🔗 [View repo](#)
+### 🥖 [The Daily Loaf Bakery](https://github.com/jteodol06-hub/the-daily-loaf-bakery)
+A modern, responsive web application for a premium artisan bakery based in Windhoek, Namibia, featuring an interactive e-commerce product catalog and seamless WhatsApp ordering integration.
+- **Tech:** `JavaScript` `HTML5` `CSS3` `E-Commerce`
+- 🔗 [View Repository →](https://github.com/jteodol06-hub/the-daily-loaf-bakery)
 
-### 🎨 Teodol Website Template
-A reusable, multi-purpose website template designed for fast, modular frontend setup.
-- **Technologies:** HTML, CSS, JavaScript
-- 🔗 [View repo](#)
-
-### 🏢 NUST Service Centre Simulation
-A Java group project simulating a service centre environment using queues, linked lists, stacks, and sorting algorithms.
-- **Technologies:** Java, Data Structures & Algorithms
-- 🔗 [View repo](#)
-
-### 🏛️ Municipal Financial Management System (MFMS)
-A collaborative group project written in C for managing municipal financial workflows.
-- **Technologies:** C, Systems Programming
-- 🔗 [View repo](#)
+### 🧩 [Teodol Media Platform](https://github.com/jteodol06-hub/Teodol-media-platform2)
+A scalable backend-driven media and SaaS platform built from scratch with Python and FastAPI, focusing on clean architecture and high-performance API design.
+- **Tech:** `Python` `FastAPI` `REST API`
+- 🔗 [View Repository →](https://github.com/jteodol06-hub/Teodol-media-platform2)
 
 ---
 
@@ -106,10 +96,10 @@ A collaborative group project written in C for managing municipal financial work
 
 ## 🌷 Currently
 
-- 🔭 Building and iterating on the **Teodol Platform** SaaS side project.
-- 🔐 Deepening my knowledge in **cybersecurity fundamentals** and secure application design.
-- 📚 Advancing through data structures, systems programming, and algorithms at **NUST**.
-- 💼 Actively seeking internship opportunities to contribute and grow as a developer.
+- 🛡️ Developing **Integrity & Chain-of-Custody (ICCF)** — an evidence integrity and cryptographic audit platform.
+- 🔭 Enhancing the **Teodol Media Platform** backend using Python and FastAPI.
+- 📚 Advancing through core cybersecurity and computer science topics at **NUST**.
+- 💼 Actively looking for a **software engineering / cybersecurity internship** for hands-on industry experience.
 
 ---
 
