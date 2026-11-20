@@ -137,7 +137,3 @@
 ```
 
 ---
-
-> [!TIP]
-> **Super easy way to add your pixel art image on GitHub:**
-> When you edit your `README.md` on github.com in your browser, you can **drag and drop your image file directly into the edit box**. GitHub will automatically upload it and replace `./assets/frieren-header.gif` with a permanent GitHub image link so it shows up instantly without needing to manually create folders!
