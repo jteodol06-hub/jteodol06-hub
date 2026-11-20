@@ -1,18 +1,21 @@
 <div align="center">
 
-<!-- Moving Pixel Art Hero Banner -->
-<img src="./assets/frieren-header.gif" width="100%" alt="Frieren Pixel Forest Banner" style="border-radius: 14px;" />
+<!-- Cute Animated Moving Wave Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Hi,%20I'm%20Josephine%20%F0%9F%8C%B8&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Specialist%20in%20Training%20%E2%9C%A8%20Full-Stack%20Crafter&descAlignY=58&descSize=18" width="100%" alt="Josephine's Banner" />
+
+<!-- Frieren Pixel Art Hero Illustration -->
+<img src="./assets/frieren-header.gif" width="90%" alt="Frieren Pixel Forest Banner" style="border-radius: 14px;" />
 
 <br/><br/>
 
-<!-- Retro Typing SVG -->
+<!-- Retro Typing SVG Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=640&lines=Leveling+up+Cybersecurity+%26+CS+%40+NUST+%F0%9F%87%B3%F0%9F%87%A6;Crafting+secure+%26+practical+digital+products+%F0%9F%94%90;TypeScript+%C2%B7+Python+%C2%B7+FastAPI+%C2%B7+Google+Cloud+%E2%9C%A8;Bit-level+SHA-256+integrity+%26+chain-of-custody+%F0%9F%9B%A1%EF%B8%8F;Open+to+software+%26+cybersecurity+internships+%F0%9F%8C%B7;A+thousand-year+journey+in+code+%26+security+%F0%9F%A7%99%E2%80%8D%E2%99%80%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Color-Matched Badges (Sampled from the Artwork Palette) -->
+<!-- Color-Matched Badges -->
 [![Location](https://img.shields.io/badge/Realm-Windhoek%2C_Namibia-60a5fa?style=for-the-badge&logoColor=white)](#)
 [![Academy](https://img.shields.io/badge/Academy-NUST_Namibia-818cf8?style=for-the-badge&logoColor=white)](#)
 [![Class](https://img.shields.io/badge/Class-Cybersecurity_Mage-c084fc?style=for-the-badge&logo=hackthebox&logoColor=white)](#)
@@ -133,3 +136,8 @@
 </div>
 ```
 
+---
+
+> [!TIP]
+> **Super easy way to add your pixel art image on GitHub:**
+> When you edit your `README.md` on github.com in your browser, you can **drag and drop your image file directly into the edit box**. GitHub will automatically upload it and replace `./assets/frieren-header.gif` with a permanent GitHub image link so it shows up instantly without needing to manually create folders!
