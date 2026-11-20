@@ -1,23 +1,33 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Hi,%20I'm%20Josephine%20%F0%9F%8C%B8&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Specialist%20in%20Training%20%E2%9C%A8%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%" alt="Josephine's Banner" />
+<!-- Moving Pixel Art Hero Banner -->
+<img src="./assets/frieren-header.gif" width="100%" alt="Frieren Pixel Forest Banner" style="border-radius: 12px;" />
 
-<!-- Typing Animation -->
+<br/><br/>
+
+<!-- Retro Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=D946EF&center=true&vCenter=true&width=620&lines=CS+%26+Cybersecurity+%40+NUST+%F0%9F%87%B3%F0%9F%87%A6;Building+secure+%26+practical+digital+products+%F0%9F%94%90;TypeScript+%C2%B7+Python+%C2%B7+FastAPI+%E2%9C%A8;Open+to+software+%26+tech+internships+%F0%9F%8C%B7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=620&lines=Leveling+up+Cybersecurity+%26+CS+%40+NUST+%F0%9F%87%B3%F0%9F%87%A6;Crafting+secure+%26+practical+digital+products+%F0%9F%94%90;TypeScript+%C2%B7+Python+%C2%B7+FastAPI+%E2%9C%A8;Open+to+software+%26+tech+internships+%F0%9F%8C%B7" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Status Badges -->
-[![Location](https://img.shields.io/badge/Windhoek%2C_Namibia-%F0%9F%87%B3%F0%9F%87%A6-f472b6?style=for-the-badge&logoColor=white)](#)
-[![Open to Internships](https://img.shields.io/badge/Open_to-Internships-a855f7?style=for-the-badge&logo=githubsponsors&logoColor=white)](#)
-[![Focus: Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-c084fc?style=for-the-badge&logo=hackthebox&logoColor=white)](#)
+<!-- Color-Matched Badges (Sampled from the Artwork) -->
+[![Location](https://img.shields.io/badge/Windhoek%2C_Namibia-%F0%9F%87%B3%F0%9F%87%A6-60a5fa?style=for-the-badge&logoColor=white)](#)
+[![Class](https://img.shields.io/badge/Class-Cybersecurity_Mage-c084fc?style=for-the-badge&logo=hackthebox&logoColor=white)](#)
+[![Status](https://img.shields.io/badge/Status-Seeking_Internships-f472b6?style=for-the-badge&logo=githubsponsors&logoColor=white)](#)
 
 </div>
 
 ---
+
+## 🪻 Character Profile
+
+```text
+Name     : Josephine Teodol
+Class    : Full-Stack Developer & Cybersecurity Specialist
+Location : Windhoek, Namibia (NUST)
+Passive  : +10 Defensive Coding, +15 Problem Solving, Pixel Aesthetic Lover ✨
 
 ## 🌸 About Me
 
